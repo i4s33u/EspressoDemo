@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/i4cu/.AndroidStudio2.1/config/plugins/AndroidTestsRecorder/lib/AndroidTestsRecorder.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a81a2b316a662d80ee8f29e81e21bfda9c13f1bb">
+        <dex dex="/home/i4cu/Documents/Espresso/EspressoDemo/app/build/intermediates/pre-dexed/debug/AndroidTestsRecorder_cdbfcd140502b35c36017092a5733ea438a6a7ff.jar" />
+    </item>
+
+</items>
